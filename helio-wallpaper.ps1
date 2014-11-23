@@ -22,7 +22,7 @@ function GetHelioWallpaper
     
   $jp2 = "$workingDirectory\images\web.jp2"
   $webClient = new-object System.Net.WebClient
-  $webClient.DownloadFile($uri, "jp2")
+  $webClient.DownloadFile($uri, "$jp2")
   
   return $jp2
 }
