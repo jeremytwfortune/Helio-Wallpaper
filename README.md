@@ -11,7 +11,7 @@ http://www.imagemagick.org/script/binary-releases.php#windows
 
 ## Credit ##
 
-Helio Viewer! Take a look at our awesome star: http://helioviewer.org/api/docs/v1/
+Helio Viewer! Take a look at our awesome star: http://helioviewer.org
 
 GitHub's Philhansen.
 
