@@ -10,7 +10,7 @@ Pulls images from helioviewer.org and sets to the current windows wallpaper. Use
 * Ensure that your Set-ExecutionPolicy for PowerShell is disabled by running `Set-ExecutionPolicy Unrestricted -force`
 * Run instsall.ps1.
  
-If you want to keep downloading new images, create a Windows Task that calls `helio-wallpaper.ps1`
+If you want to keep downloading new images, create a Windows Task that calls `schedule-wrapper.vbs`
 
 ## Customize ##
 
