@@ -28,6 +28,6 @@ Most of the jpg2000 images that come back from helioviewer's API come back witho
 
 Helioviewer! Take a look at our awesome star: www.helioviewer.org
 
-GitHub's Philhansen. Binary for https://github.com/philhansen/WallpaperChanger is distributed with Helio-Wallpaper.
+GitHub's Philhansen. Binary for https://github.com/philhansen/WallpaperChanger is distributed with Helio-Wallpaper. If the executable doesn't work, you may need to recompile from WallpaperChanger's source.
 
 Image Magick. www.imagemagick.org
